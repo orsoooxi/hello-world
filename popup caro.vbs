@@ -1,0 +1,8 @@
+vvahjkjr=msgbox("-38",0,"6+4+1")
+vahjiuhar=msgbox("6+4+1",2+64, "the result cannot be processed")
+vdvhuijhaar=msgbox("6+4+1",2+64,"the result cannot be processed")
+avuygaar=msgbox("6+4+1",2+64,"the result cannot be processed")
+vasdvaar=msgbox("6+4+1",2+64,"the result cannot be processed")
+axdsr=msgbox("6+4+1",2+64,"the result cannot be processed")
+qar=msgbox("6+4+1",2+64,"the result cannot be processed")
+hgjufshu=msgbox("11",0,"6+4+1")
